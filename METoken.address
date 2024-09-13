@@ -1,0 +1,31 @@
+truffle(development)> undefined
+truffle(development)> evalmachine.<anonymous>:0
+
+^
+
+Uncaught SyntaxError: Invalid or unexpected token
+truffle(development)> undefined
+truffle(development)> undefined
+truffle(development)> undefined
+truffle(development)> undefined
+truffle(development)> undefined
+truffle(development)> undefined
+truffle(development)> undefined
+truffle(development)> undefined
+truffle(development)> evalmachine.<anonymous>:0
+
+^
+
+Uncaught SyntaxError: Invalid or unexpected token
+truffle(development)> undefined
+truffle(development)> evalmachine.<anonymous>:0
+
+^
+
+Uncaught SyntaxError: Invalid or unexpected token
+truffle(development)> evalmachine.<anonymous>:0
+
+^
+
+Uncaught SyntaxError: Invalid or unexpected token
+truffle(development)> 
